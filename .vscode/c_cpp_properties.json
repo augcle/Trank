@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Clang on Windows",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "clang",
+            "cStandard": "c23",
+            "intelliSenseMode": "windows-clang-x64"
+        }
+    ],
+    "version": 4
+}
